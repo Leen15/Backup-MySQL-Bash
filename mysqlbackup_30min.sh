@@ -1,7 +1,7 @@
 #!/bin/sh
 # Scripts to create mysql backup every half and hour
  
-# Confiration value
+# Configuration value
 mysql_host="localhost"
 mysql_database="DB_NAME"
 mysql_username="MYSQL_USER"
